@@ -3,10 +3,9 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.*;
-import java.util.stream.IntStream;
 
 
-public class MainTwo {
+public class Run2 {
     // Константы для символов ключей и дверей
     private static final char[] KEYS_CHAR = new char[26];
     private static final char[] DOORS_CHAR = new char[26];

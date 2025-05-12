@@ -5,7 +5,7 @@ import java.util.Map;
 import java.util.HashMap;
 import java.util.Collections;
 
-public class MainOne {
+public class Run {
     public static boolean checkCapacity(int maxCapacity, List<Map<String, String>> guests) {
         class Event {
             String date;
